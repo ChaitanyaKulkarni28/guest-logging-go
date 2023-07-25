@@ -1,6 +1,6 @@
 module github.com/GoogleCloudPlatform/guest-logging-go
 
-go 1.17
+go 1.20
 
 require (
 	cloud.google.com/go v0.47.0
